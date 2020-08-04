@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3PdtNUDvWdWdj0UGgfJwIimxEVHtXmi+R6Ua9YPGrkbXCs55zVDA9bci1+us2hgrH2ceWLityQzykkQ//NFMyA==",
+  "dgSpecHash": "GPvMGbXWXxan5clunDKshve+jv1NWWr/6aCBVK7m42+cfoZwSsZ2sqRR4iES4d4tJcF5LIKNFzN+EqGusd1a0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Thinkpad\\Desktop\\test\\myapp\\myapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.0\\microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

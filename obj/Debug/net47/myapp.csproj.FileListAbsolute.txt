@@ -1,0 +1,9 @@
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\myapp.exe.config
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\myapp.exe
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\myapp.pdb
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.AssemblyInfo.cs
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.exe
+C:\Users\Thinkpad\Desktop\test\myapp\obj\Debug\net47\myapp.pdb

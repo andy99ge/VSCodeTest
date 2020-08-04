@@ -1,0 +1,3 @@
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\publish\myapp.exe
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\publish\myapp.exe.config
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net47\publish\myapp.pdb
