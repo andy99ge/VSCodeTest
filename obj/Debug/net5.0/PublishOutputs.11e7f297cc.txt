@@ -1,0 +1,5 @@
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net5.0\publish\myapp.exe
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net5.0\publish\myapp.dll
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net5.0\publish\myapp.deps.json
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net5.0\publish\myapp.runtimeconfig.json
+C:\Users\Thinkpad\Desktop\test\myapp\bin\Debug\net5.0\publish\myapp.pdb
